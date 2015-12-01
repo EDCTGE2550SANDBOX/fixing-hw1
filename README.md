@@ -1,6 +1,6 @@
 # Fix me!!
 
-The goal of the assignment is to test your ability to find and fix errors. This task needs you to open the code file called [Odd **or** Even](odd+even.py) and fix the errors, it should:
+The assignment is to test your ability to find and fix errors. This task needs you to open the code file called [Odd **or** Even](odd+even.py) and fix the errors, it should:
 - be able to enter a number
 - be able to justify whether the indicated number is odd or even
 
