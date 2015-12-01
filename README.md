@@ -4,7 +4,7 @@ This task needs you to open the code filed called [Odd or Even](odd+even.py) and
 - be able to enter a number
 - be able to justify whether the indicated number is odd or even
 
-The goal of the assignment is to test your ability to find and fix errors.
+The **goal** of the assignment is to test your ability to find and fix errors.
 
 The code is shown below:
 
